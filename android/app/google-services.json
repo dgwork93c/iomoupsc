@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991259138358",
+    "project_id": "iomou-252df",
+    "storage_bucket": "iomou-252df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991259138358:android:db8880f33a6d6511823b97",
+        "android_client_info": {
+          "package_name": "com.iomou.iomoupsc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-r6U9J1s4aCBlFZf-VrsU2CAChuwgC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
